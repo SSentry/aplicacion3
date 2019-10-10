@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/zerogone01/RandomNumbers" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zerogone01/AnimalSounds" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
